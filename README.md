@@ -1,2 +1,2 @@
-# WebProjects
+# Projects
 Projects done so far
